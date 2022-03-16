@@ -1,2 +1,2 @@
-# computational-intelligence-course
-This repo is used to archive and deliver projects relative to the course "Computational Intelligence" attended at "Politecnico di Torino" (2021/2022)
+# RIS-MCTS Hanabi
+An Hanabi agent implemented using RIS-MCTS (Re-determinizing Information Set Monte Carlo Tree Search), developed for the "Computational Intelligence" course attended at "Politecnico di Torino" (2021/2022)
